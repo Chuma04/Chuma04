@@ -44,4 +44,4 @@ While much of my work and collaborative endeavors reside in private repositories
 * Interested in contributing to projects within the FinTech and e-commerce domains.
 
 ## Professional Links
-* [LinkedIn]([Link to your LinkedIn Profile])
+* [LinkedIn](https://www.linkedin.com/in/chuma-m-hango-0a41a117b/)
