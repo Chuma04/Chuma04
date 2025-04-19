@@ -156,7 +156,7 @@
         <hr>
         <div class="optional-section professional-links">
             <h3>Professional Links</h3>
-            <p><a href="[Link to your LinkedIn Profile]" target="_blank">LinkedIn</a> </p>
+            <p><a href="https://www.linkedin.com/in/chuma-m-hango-0a41a117b/" target="_blank">LinkedIn</a> </p>
         </div>
     </div>
 </body>
