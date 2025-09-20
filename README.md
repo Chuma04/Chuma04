@@ -13,7 +13,7 @@ While much of my work and collaborative endeavors reside in private repositories
 
 ### Backend Technologies:
 * **PHP:** CodeIgniter Framework (Highly Proficient)
-* **Go:** Backend Development
+* **Go:** Microservices and REST API Development
 * **Java:** Microservices Development
 * **C#:** ASP.NET Core (Web API, MVC)
 
