@@ -6,7 +6,7 @@ While much of my work and collaborative endeavors reside in private repositories
 
 <div align="center">
 <h2>Skills</h2>
-<img src="https://skillicons.dev/icons?i=csharp,dotnet,php,javascript,react,bootstrap,mysql,postgresql,sqlite,git,github,java" alt="Skills">
+<img src="https://skillicons.dev/icons?i=go,php,javascript,react,bootstrap,mysql,postgresql,sqlite,git,github,java" alt="Skills">
 </div>
 
 ## Core Technical Competencies
