@@ -1,25 +1,27 @@
 # Chuma | Software Developer
 
-Software Developer specializing in the design and implementation of robust web applications, leveraging the power of **C#/.NET** and **PHP** frameworks. With a strong foundation in full-stack development, I focus on crafting efficient backend logic, seamless database interactions, and engaging user interfaces using modern frontend technologies.
+Software Developer specializing in the design and implementation of robust web applications, leveraging the power of **PHP** frameworks, **GO**, and **C#**. With a strong foundation in full-stack development, I focus on crafting efficient backend logic, seamless database interactions, and engaging user interfaces using modern frontend technologies.
 
 While much of my work and collaborative endeavors reside in private repositories, this space highlights my key technical proficiencies and showcases a selection of my projects.
 
 <div align="center">
 <h2>Skills</h2>
-<img src="https://skillicons.dev/icons?i=go,php,javascript,react,bootstrap,mysql,postgresql,sqlite,git,github,java" alt="Skills">
+<img src="https://skillicons.dev/icons?i=php,go,typescript,remix,bootstrap,dotnet,mysql,postgresql,sqlite,git,github,java" alt="Skills">
 </div>
 
 ## Core Technical Competencies
 
 ### Backend Technologies:
-* **C#:** ASP.NET Core (Web API, MVC), Blazor
 * **PHP:** CodeIgniter Framework (Highly Proficient)
+* **Go:** Backend Development
 * **Java:** Microservices Development
+* **C#:** ASP.NET Core (Web API, MVC)
 
 ### Frontend Technologies:
-* **JavaScript:** Core Language Features, DOM Manipulation
+* **JavaScript:** Core Language Features
 * **CSS Frameworks:** Bootstrap (Expert)
-* **JavaScript Libraries/Frameworks:** React (Familiar)
+* **JavaScript Libraries/Frameworks:** React, Remix
+* **C#:** Blazor
 
 ### Database Management Systems:
 * MySQL
